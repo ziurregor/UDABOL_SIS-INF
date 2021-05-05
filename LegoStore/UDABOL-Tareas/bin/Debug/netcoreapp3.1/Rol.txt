@@ -1,0 +1,4 @@
+1	SuperUsuario	true
+2	UsuarioComun	true
+3	UsuarioRedactor	false
+4	UsuarioAdministrador	true
